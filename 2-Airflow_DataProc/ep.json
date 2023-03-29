@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eloquent-petal-379005",
+  "private_key_id": "19666b00620a578d7acf5b6a746bb0143e9cfa73",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyr8Nqh9ynnH4X\n98YorYwJ9IIYADdgBeUDTfdO/m7UDBCK7wH8v6BfF6LmmA/KHgEVbOVRizq2Cdg6\nrN6MYstYuvtEzBZWgDZ/xlpqnoNA4WzEMoBF6n+tIG6MrNXvvxH8gtyBuSdiQPXw\n0E/SlG+IG+OlfEqHuNHi5ed07HvCzRVKZB4sXX28u1FSybfzJFUZuCs1ej3zXUdx\nAbnkR8awEuqT3L0U0rdrov/PQ/xPzRgD1pfgo1qD1UvYPj8otNb6sNW8riFEJcvX\nLbvqVsISSKT1zB+NfwyJHgV3C9U9OacKrSqDHBknqSdsKwiroL5UKgpp8h3okI7N\n1ulKfyjJAgMBAAECggEAU7aLj0vCYRYsbu8qe6E+0+Uk07i6OLbaQW+T9wK1ioty\nbpyl6jMen55Tt8Oy1gazjEWds9POOD2pe2fExbF9Qf8ru+H/bxwXLEqRzpSfulRC\nIDLmrJq9oS7qC+bnPbBe7VWjl/TWEi6L6nu1gdr/25zxTHTL+ATq8+mww7MNEkg3\nh3+/rsRCsfSfsQwYOOE4WohC496MlSgVQG9f0d23GzGb+xnkC9n6rks2yFYH3H3A\neHhlZSNUP/OQ07wWhl4g4tBA/ZKmzP9D+u5WiN1pFrwdC2UEGPu7Ox2Mgt1fPJhT\nUpwsMPN3AxWo1hDqLdplWknB00bh6qNe1bgaVYe/fwKBgQDyKOka86tYIdD3f1NC\nhCdLHCb5DvwA5327UCypqNEgeH6WKfY0OV3QJLstIQ/0MQU6EYLP6vlLKCm9rTtQ\nQ/GriNFejfLJN8VnnYwJ8fg77tb9zVgeOqPEwmpEWcV6ixsGW7l6kLPIfd2EkcLk\n3wueER5nQFDEujoDwG/iGNTLQwKBgQC85im624NScsDywKiYjXjR+qkVmcFqpwnc\nzxZazKubbLCBg+tz4rkMT66WYYnjgSp8p60AP3bt5niiTjTA7GcX19W4ZN43x59U\nZOb3TTPn2Aj8b+Uqf/yEbCr5xT/VUOq6yiVNl9HtIVZfstM6iLy0Mro53CUvKZVG\n75Qge0ItAwKBgQCMBbncOr9943fYVIhJMu8hkDK82rw+rZxXHiHlLFdYJjRUEglp\n4y3quAJ/MtntwhaaoBt6rAzgN2YDZlKgs9je7eraeMvFK/l6U2/xJDf8N7ua4Ayu\n1gtyL1SRFzOICz1iLNGQHHHIYXcgO8Rs4Mfv60ggPeE2D9SR7MkE/IS2zwKBgEe0\n33ZtScaMhS4hcF6opYqgKntmqIOB8T5+5i+FrkcL1Vz05PZSxIgl31J6qEtShvxW\n8lc7wDvC11xVb7UkiGYGqryanbhy8MqqmvqZtfB2k8Kv/0BI4WSrYwz5kae6VcCe\nZ9ayoR/xHcaqLYD00x1cfFDmfr8Oe/o3i/VglNhdAoGBANS2vuRWq+KH6zWs9oAC\nZPxXdx1h4HhY7c29+Usf0JfMDLpY6jcERqvaPcGOrzBAHXBrrTjJ2oiHHaVIfvdh\n7ws/aPxI7s3n0+jpvZuyiCteUuVjzsIGHlIy4wsljrb2MtdNLe74mKxShDDMxwh2\nPheqr9NMICv98t1yJ8esfKwH\n-----END PRIVATE KEY-----\n",
+  "client_email": "deneme@eloquent-petal-379005.iam.gserviceaccount.com",
+  "client_id": "109662852782631088300",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deneme%40eloquent-petal-379005.iam.gserviceaccount.com"
+}
