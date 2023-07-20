@@ -31,7 +31,7 @@ kafka
 
 
 
->docker exec -it kafka-docker bash
+>sudo docker exec -it kafka-docker bash
 
 >kafka-topics.sh --create --topic ornek --bootstrap-server localhost:9092
     
