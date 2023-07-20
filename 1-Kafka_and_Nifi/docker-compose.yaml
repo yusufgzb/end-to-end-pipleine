@@ -32,9 +32,6 @@ services:
     container_name: nifi-docker
     ports:
       - 8080:8080
-
-    volumes:
-      - C:/Users/Yusuf/Desktop/DE-Projeler/2-Log-Analytics-Project/data:/var/lib/data
       
     networks:
       - siot_i_network
